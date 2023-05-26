@@ -15,11 +15,15 @@ img{
       width:10%;
      border: 3px solid red;
 }
-.num-decoration{
-      background-color:purple;
-      width:35%;
-      color:white;
-      border:2px red
+.numdecoration{
+    /*  background-color:purple;  */
+    /*  width:35%;               */
+    /*  color:white;             */
+   /*   border:2px red          */
+       display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
             
 }
       
