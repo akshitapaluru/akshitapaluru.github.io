@@ -29,10 +29,10 @@ img{
     /*  width:35%;               */
     /*  color:white;             */
    /*   border:2px red          */
-       display: grid;
+       display: flex;
  align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 5px;
+ grid-template-columns: center;
+ /* column-gap: 5px */;
             
 }
       
