@@ -24,10 +24,10 @@ h3{font-size:50px;}
       float: left;
 }
 
-.numimg{
+img{
         max-width: 25%;
   max-height:15%;
-      float:left;
+      float:left
 }
 .numdecoration{
     /*  background-color:purple;  */
