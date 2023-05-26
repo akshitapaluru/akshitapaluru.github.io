@@ -36,7 +36,8 @@ img{
        display: flex;
  align-items: center; 
  grid-template-columns: center;
- /* column-gap: 5px */;
+ /* column-gap: 5px; */
+   justify-content: center;
             
 }
       
