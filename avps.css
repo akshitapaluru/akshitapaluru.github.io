@@ -17,7 +17,10 @@ img{
 }
 
 .numtext{
-      font-size: 70px;
+
+        font-size: 20px;
+  padding-left: 20px;
+      padding-top: 20%;
 }
 
 .numimg{
