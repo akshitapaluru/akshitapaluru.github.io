@@ -34,10 +34,9 @@ img{
     /*  color:white;             */
    /*   border:2px red          */
        display: flex;
- align-items: center; 
- grid-template-columns: center;
- /* column-gap: 5px; */
-   justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center
             
 }
       
