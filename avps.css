@@ -1,8 +1,12 @@
 
       body{background-color:#008080;}
       body{color:white;}
-a{font-size:140%; border:3px solid red;}
-.things{background-color:yellow;}
+a{font-size:140%; 
+  border:3px solid red; 
+  background-color:#CC8899; 
+  color:white;}
+
+
 
 p{color:red;}
 
