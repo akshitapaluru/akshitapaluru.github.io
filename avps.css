@@ -24,9 +24,10 @@ h3{font-size:50px;}
       float: left;
 }
 
-numimg{
-        max-width: 30%;
-  max-height:40%;
+.numimg{
+        max-width: 25%;
+  max-height:15%;
+      float:left;
 }
 .numdecoration{
     /*  background-color:purple;  */
@@ -36,7 +37,7 @@ numimg{
      
   display: flex;
   align-items: center;
-  justify-content: center
+  justify-content: center;
             
 }
       
