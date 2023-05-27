@@ -19,15 +19,18 @@ h3{font-size:50px;}
 .numtext{
 
         font-size: 20px;
-  padding-left: 20px;
-      padding-top: 20%;
+  
       float: left;
+      /* margin-left: 20px;
+      margin-top: 20%; */
 }
 
 img{
-        max-width: 25%;
-  max-height:15%;
-      float:left
+        width:25%;
+  height:15%;
+      float:left;
+      margin-right:10px;
+      margin-bottom:10px;      
 }
 .numdecoration{
     /*  background-color:purple;  */
