@@ -2,15 +2,16 @@
       /* body{background-color:#008080;} */
   body{background-color:#AA96DA;}
       body{color:white;}
+body{font-size:30px}
 nav{font-size:20px; 
       color:white;
   background-color:#008080; 
  float:left;
 padding:4px}
-h1{font-size:100px;
+h1{font-size:3em;
 font-family:cursive}
-h2(font-size:50px;}
-h3{font-size:40px;}
+h2(font-size:2em;}
+h3{font-size:1.5em;}
 
 
 
