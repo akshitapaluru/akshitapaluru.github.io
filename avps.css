@@ -9,38 +9,7 @@ nav{font-size:20px;
 h1{font-size:2em;}
 h2(font-size:1.5em;}
 h3{font-size:50px;}
-/*img{
-      width:10%;
-     border: 3px solid red;
-}*/
 
-.numtext{
-
-        font-size: 20px;
-  
-      float: left;
-      /* margin-left: 20px;
-      margin-top: 20%; */
-}
-
-img{
-      
-float:left;
-padding:6px 
-}
-.numdecoration{
-    /*  background-color:purple;  */
-    /*  width:35%;               */
-    /*  color:white;             */
-   /*   border:2px red          */
-     
-  display: flex;
-  align-items: center;
-  justify-content: center;
-            
-}
-      
-      
 
 
 
