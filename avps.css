@@ -5,7 +5,9 @@
 nav{font-size:20px; 
   background-color:yellow; 
   color:black;
-      float:left;}
+      float:left;
+height: 80%
+width:20%}
 h1{font-size:100px;}
 h2(font-size:50px;}
 h3{font-size:40px;}
