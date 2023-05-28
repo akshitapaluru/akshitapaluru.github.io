@@ -5,13 +5,13 @@
 body{font-size:30px}
 
 nav{font-size:20px; 
-      color:white;
+      color:black;
   background-color:#08E8DE; 
  float:left;
 padding:4px}
 
 a{color:purple;
-border:3px purple;}
+border:5px black}
 
 h1{font-size:3em;
 font-family:cursive}
