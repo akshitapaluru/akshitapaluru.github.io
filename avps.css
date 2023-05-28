@@ -3,9 +3,9 @@
   body{background-color:#AA96DA;}
       body{color:white;}
 nav{font-size:20px; 
+      color:white;
   background-color:#008080; 
-  color:white;
-      float:left;
+ float:left;
 padding:4px}
 h1{font-size:100px;
 font-family:cursive}
