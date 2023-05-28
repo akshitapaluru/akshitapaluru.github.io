@@ -2,10 +2,9 @@
       /* body{background-color:#008080;} */
   body{background-color:#AA96DA;}
       body{color:white;}
-nav{font-size:50px; 
-  border:3px solid purple; 
-  background-color:#fe2c54; 
-  color:white;
+nav{font-size:20px; 
+  background-color:yellow; 
+  color:black;
   float:left;
       height:100%
       width:20%
