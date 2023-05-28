@@ -9,9 +9,10 @@ nav{font-size:20px;
   background-color:#08E8DE; 
  float:left;
 margin-right:6px;}
-
 a{color:purple;
 border:5px black}
+
+img{float:right;}
 
 h1{font-size:3em;
 font-family:cursive}
@@ -20,7 +21,7 @@ font-family:san-serif;}
 h3{font-size:2em;
 font-family:san-serif;}
 
-img{float:right;}
+
 
 
 
