@@ -12,7 +12,8 @@ h1{font-size:3em;
 nav{font-size:20px; 
       color:yellow;
   background-color:#CF9FFF; 
- margin-right:6px;}
+ margin-right:6px;
+align-text:center;}
 a{color:black;
       display: inline-block;
       padding: 25px 50px 75px;
