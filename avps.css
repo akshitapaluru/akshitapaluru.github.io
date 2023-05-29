@@ -1,17 +1,18 @@
 
+
       /* body{background-color:#008080;} */
 /*  body{background-color:#AA96DA;} */
-body{background-color:#DDA0DD;}
+body{background-color:#210070;}
       body{color:white;}
 body{font-size:30px;
 font-family:Optima, sans-serif;}
 
 nav{font-size:20px; 
       color:yellow;
-  background-color:#000000; 
+  background-color:#213970; 
  float:left;
 margin-right:6px;}
-a{color:yellow;
+a{color:purple;
 border:5px black}
 
 img{float:right;}
