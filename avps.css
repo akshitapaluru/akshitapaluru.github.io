@@ -20,6 +20,10 @@ a{color:black;
       padding: 25px 50px 25px;
 border:5px black}
 
+a:link:active{
+  color: white;
+}
+
 h2{font-size:2em;}
 h3{font-size:1.5em}
 
