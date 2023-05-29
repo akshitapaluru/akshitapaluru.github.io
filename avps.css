@@ -20,12 +20,7 @@ a{color:black;
       padding: 25px 50px 25px;
 border:5px black}
 
-
-
-
-a:link:active{
-  color: white;
-}
+p{text-align: justify}
 
 h2{font-size:1.5em;}
 h3{font-size:1em}
